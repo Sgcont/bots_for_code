@@ -11,9 +11,10 @@ from dotenv import load_dotenv
 
 load_dotenv()  # carrega as variáveis de ambiente do arquivo .env
 
-# ------------------------------------------------------------
-# CONFIGURAÇÕES (mexa aqui pra adaptar ao servidor da for_code)
-# ------------------------------------------------------------
+# 
+# CONFIGURAÇÕES (depois mexer aqui pra adaptar ao servidor da nossa equipe for_code)
+# 
+
 NOME_CANAL_BOAS_VINDAS = 'boas-vindas'   # canal onde o bot recebe os novatos
 NOME_CARGO_INICIAL = 'Calouro'           # cargo que todo mundo ganha ao entrar
 NOME_CANAL_DESAFIO = 'desafio-do-dia'    # canal onde o desafio diário é postado
